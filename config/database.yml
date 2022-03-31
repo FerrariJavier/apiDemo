@@ -83,4 +83,4 @@ production:
   <<: *default
   database: my_dope_api_production
   username: my_dope_api
-  password: <%= ENV["MY_DOPE_API_DATABASE_PASSWORD"] %>
+  password: 33778788
